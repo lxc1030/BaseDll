@@ -59,7 +59,10 @@ public class UIManager : MonoBehaviour
             }
         }
     }
-
+    /// <summary>
+    /// 关闭所有面板，除了该面板
+    /// </summary>
+    /// <param name="name"></param>
     public void HideExcept(string name = "")
     {
         if (!string.IsNullOrEmpty(name))
@@ -82,12 +85,14 @@ public class UIManager : MonoBehaviour
             pools[item.Key].SetActive(false);
         }
     }
-
+    /// <summary>
+    /// 关闭所有面板
+    /// </summary>
     public void HideAll()
     {
         foreach (var item in pools)
         {
-            pools[name].SetActive(false);
+            pools[item.Key].SetActive(false);
         }
     }
 

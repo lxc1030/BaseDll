@@ -4,3 +4,7 @@ E:\MyDLL\UIManager\UIManager\obj\Debug\UIManager.dll
 E:\MyDLL\UIManager\UIManager\obj\Debug\UIManager.pdb
 E:\MyDLL\Dlls\UIManager.dll
 E:\MyDLL\Dlls\UIManager.pdb
+E:\MyGit\MyDll\Dlls\UIManager.dll
+E:\MyGit\MyDll\Dlls\UIManager.pdb
+E:\MyGit\MyDll\UIManager\UIManager\obj\Debug\UIManager.dll
+E:\MyGit\MyDll\UIManager\UIManager\obj\Debug\UIManager.pdb
