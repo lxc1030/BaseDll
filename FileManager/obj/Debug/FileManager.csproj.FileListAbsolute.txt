@@ -1,0 +1,11 @@
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\FileManager\bin\Debug\FileManager.dll
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\FileManager\bin\Debug\FileManager.pdb
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\FileManager\obj\Debug\FileManager.dll
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\FileManager\obj\Debug\FileManager.pdb
+E:\MyDLL\FileManager\bin\Debug\FileManager.dll
+E:\MyDLL\FileManager\bin\Debug\FileManager.pdb
+E:\MyDLL\Dlls\FileManager.dll
+E:\MyDLL\Dlls\FileManager.pdb
+E:\MyDLL\FileManager\obj\Debug\FileManager.dll
+E:\MyDLL\FileManager\obj\Debug\FileManager.pdb
+E:\MyDLL\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache

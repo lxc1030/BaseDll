@@ -1,0 +1,9 @@
+E:\MyDLL\ReadXML\ReadXML\bin\Debug\ReadXML.exe.config
+E:\MyDLL\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+E:\MyDLL\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.csprojResolveAssemblyReference.cache
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.Form1.resources
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.Properties.Resources.resources
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.csproj.GenerateResource.Cache
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+E:\MyDLL\ReadXML\ReadXML\obj\Debug\ReadXML.pdb

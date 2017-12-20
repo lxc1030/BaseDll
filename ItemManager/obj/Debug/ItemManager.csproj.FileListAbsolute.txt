@@ -1,0 +1,10 @@
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\ItemManager\bin\Debug\ItemManager.dll
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\ItemManager\bin\Debug\ItemManager.pdb
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\ItemManager\obj\Debug\ItemManager.dll
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\ItemManager\obj\Debug\ItemManager.pdb
+E:\SVNCheckOut\UnityProject\Unity5.2.3\MyTest\ItemManager\obj\Debug\ItemManager.csprojResolveAssemblyReference.cache
+E:\MyDLL\Dlls\ItemManager.dll
+E:\MyDLL\Dlls\ItemManager.pdb
+E:\MyDLL\ItemManager\obj\Debug\ItemManager.dll
+E:\MyDLL\ItemManager\obj\Debug\ItemManager.pdb
+E:\MyDLL\ItemManager\obj\Debug\ItemManager.csprojResolveAssemblyReference.cache

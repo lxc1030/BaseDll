@@ -1,0 +1,6 @@
+E:\MyDLL\UIManager\UIManager\bin\Debug\UIManager.dll
+E:\MyDLL\UIManager\UIManager\bin\Debug\UIManager.pdb
+E:\MyDLL\UIManager\UIManager\obj\Debug\UIManager.dll
+E:\MyDLL\UIManager\UIManager\obj\Debug\UIManager.pdb
+E:\MyDLL\Dlls\UIManager.dll
+E:\MyDLL\Dlls\UIManager.pdb
